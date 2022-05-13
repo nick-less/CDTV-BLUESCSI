@@ -1,10 +1,6 @@
 A Version of the CDTV SCSI Card with an added bluepill SCSI Emulator
 
 
-
-![3D Rendering by Betalayout](3d.png)
-
-
 ```
 Partlist
 
@@ -38,5 +34,3 @@ X1       057-050-1      057-050-1    con-panduit  (1488 1746)           R0
 X2                      F25H         SparkFun     (1152 304)            R180
 ```
 
-
-Betalayout: https://de.beta-layout.com/leiterplatten
