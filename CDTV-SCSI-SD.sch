@@ -17973,14 +17973,14 @@ Created 2014-07-10, Karrer Zheng&lt;br&gt;
 </net>
 <net name="MOSI" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="PA5"/>
-<wire x1="-5.08" y1="-106.68" x2="0" y2="-106.68" width="0.1524" layer="91"/>
-<label x="-2.54" y="-106.68" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="SD1" gate="G$1" pin="CMD(DI)"/>
 <wire x1="-45.72" y1="-160.02" x2="-50.8" y2="-160.02" width="0.1524" layer="91"/>
 <label x="-50.8" y="-160.02" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="PA7"/>
+<wire x1="-5.08" y1="-101.6" x2="0" y2="-101.6" width="0.1524" layer="91"/>
+<label x="-2.54" y="-101.6" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="MISO" class="0">
@@ -17997,14 +17997,14 @@ Created 2014-07-10, Karrer Zheng&lt;br&gt;
 </net>
 <net name="SCK" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="PA7"/>
-<wire x1="-5.08" y1="-101.6" x2="0" y2="-101.6" width="0.1524" layer="91"/>
-<label x="-2.54" y="-101.6" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="SD1" gate="G$1" pin="CLK(SCLK)"/>
 <wire x1="-45.72" y1="-165.1" x2="-50.8" y2="-165.1" width="0.1524" layer="91"/>
 <label x="-50.8" y="-165.1" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="PA5"/>
+<wire x1="-5.08" y1="-106.68" x2="0" y2="-106.68" width="0.1524" layer="91"/>
+<label x="-2.54" y="-106.68" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$21" class="0">
