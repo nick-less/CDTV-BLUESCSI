@@ -1,5 +1,7 @@
 A Version of the CDTV SCSI Card with an added bluepill SCSI Emulator
 
+Works with https://github.com/erichelgeson/BlueSCSI
+
 
  ![Picture](/image.jpg)
 
